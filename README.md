@@ -1,3 +1,8 @@
+fast install: 
+```
+wget -O - https://raw.githubusercontent.com/zheneknew/.tmux/master/command | bash
+```
+
 .tmux
 =====
 
